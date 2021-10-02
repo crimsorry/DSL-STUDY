@@ -96,7 +96,7 @@
 
 ####  - JVM 구성 요소
 
-> ![saef](C:\Users\user\Desktop\saef.png)
+> ![1](https://user-images.githubusercontent.com/31988854/135709535-ba22ada7-4819-40cf-95dc-044fb85eeea6.png)
 >
 > * JVM 자바 클래스 로더 (Class Loader)
 >
